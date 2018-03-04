@@ -45,7 +45,7 @@ docker-compose run app bash
 make java
 ```
 
-## What you should know after this course
+## What you should have / know after this course
 
 * Have docker installed on your system.
 * Be able to `pull` and `run` an image of your choice.
@@ -60,4 +60,4 @@ make java
 3) Think about what we've done, learn to formulate questions.
 4) Create a profile on [Dockerhub](https://hub.docker.com)
 4) Create a profile on [Github](https://github.com)
-5) Read the `Makefile` in this folder and try to guess what it does.
+5) Read the files in this folder and try to guess what they do.
