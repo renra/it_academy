@@ -1,4 +1,6 @@
 *.class
-*.out
+*.o
 *.exe
 *.hi
+01_hello_world/hello_assembly
+01_hello_world/hello_haskell

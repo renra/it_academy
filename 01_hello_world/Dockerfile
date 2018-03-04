@@ -5,4 +5,5 @@ ENV dir /usr/src/app
 RUN mkdir -p ${dir}
 WORKDIR ${dir}
 
+RUN apt-get -qy install nasm
 COPY . ${dir}
