@@ -28,6 +28,11 @@ Manages images and containers.
 * Image is an application together with its envrionment.
 * A running image is called a container.
 
+### Installation on Windows
+
+* Use [Docker for Windows](https://docs.docker.com/docker-for-windows/install) in case you have Windows 10 PRO with Hyper-V.
+* Use [Docker Toolbox](https://docs.docker.com/toolbox/toolbox_install_windows) otherwise.
+
 For this course we will work with an image called [it_academy_toolbox](https://hub.docker.com/r/renra/it_academy_toolbox). That ensures we can all work in an environment that has all the languages installed regardless of your operating system and that we are all using the same version of those languages.
 
 ```
