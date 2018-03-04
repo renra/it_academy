@@ -50,7 +50,7 @@ docker-compose run app bash
 make java
 ```
 
-## What you should have / know after this course
+## What you should have / know after this lesson
 
 * Have docker installed on your system.
 * Be able to `pull` and `run` an image of your choice.
