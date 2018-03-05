@@ -19,7 +19,7 @@ This is a course meant for people who would like to learn about the principles o
 * Notepad, PSPad, [Sublime text](https://www.sublimetext.com), [Neo Vim](https://github.com/neovim/neovim/wiki/Installing-Neovim) (for pros), [Emacs](https://www.gnu.org/software/emacs) (for pros)
 * You can use [online editors](https://www.tutorialspoint.com/codingground.htm) too, but they will not teach you to use the tools of the language.
 * You can use online services like [HackerRank](https://www.hackerrank.com) or [CodinGame](https://www.codingame.com)
-* IDE - Integrated Development Environment - has more functions than a simple editor, but sometimes can be harder to work with (and slower). Examples are [Eclipse](https://www.eclipse.org), [Netbeans](https://netbeans.org), [MS Visual Studio](https://www.visualstudio.com). They are not always free.
+* IDE - Integrated Development Environment - has more functions than a simple editor, but sometimes can be harder to work with (and slower). Examples are [Eclipse](https://www.eclipse.org), [Netbeans](https://netbeans.org), [MS Visual Studio](https://www.visualstudio.com), [IntelliJIdea](https://www.jetbrains.com/idea/). They are not always free.
 
 ## Docker
 
