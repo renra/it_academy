@@ -11,7 +11,7 @@
 * Variables and Data Types
 * Conditions (if-else, switch)
 * Loops and iterators (for, while, forEach)
-* OOP Basics - class
-* Namespace
 * Functions
+* OOP Basics - class
+* Namespaces
 
