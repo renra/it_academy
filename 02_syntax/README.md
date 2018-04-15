@@ -15,3 +15,6 @@
 * OOP Basics - class
 * Namespaces
 
+## Homework
+
+* Write a program that outputs how many days are left till the end of the month (Hint: You can use `Date.today and Date#end_of_month` for that)
