@@ -2,8 +2,8 @@
 
 ## Links
 
-* [Chocolatey](https://community.chocolatey.org/packages/rustup.install)
-* [rustup](https://static.rust-lang.org/rustup/dist/i686-pc-windows-gnu/rustup-init.exe)
+* [Install via Chocolatey](https://community.chocolatey.org/packages/rustup.install)
+* [Install rustup directly](https://static.rust-lang.org/rustup/dist/i686-pc-windows-gnu/rustup-init.exe)
 
 ## Commands
 
