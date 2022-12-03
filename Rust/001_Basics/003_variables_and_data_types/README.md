@@ -1,15 +1,11 @@
-# Rust - Basics - Hello World
+# Rust - Basics - Variables and (Scalar) Data Types
 
-## Links
-
-* [Install via Chocolatey](https://community.chocolatey.org/packages/rustup.install)
-* [Install rustup directly](https://static.rust-lang.org/rustup/dist/i686-pc-windows-gnu/rustup-init.exe)
-
-## Commands
-
-```
-$ cargo new PROJECT_NAME # Creates a new project
-$ cargo build # Builds the project
-$ cargo run # Builds and runs the project
-$ target/debug/it_academy_lesson_basics_hello_world  # Manually runs the project
-```
+* Compiled vs Interpreted languages
+* Strongly/statically typed vs loosely/dynamically typed languages
+* Compile time vs Run time
+* What are data types?
+* Builtin Rust data types
+* Booleans
+* Float types
+* Integer types
+* Char

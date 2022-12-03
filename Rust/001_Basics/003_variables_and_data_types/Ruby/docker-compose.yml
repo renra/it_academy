@@ -3,6 +3,6 @@ version: "3.7"
 services:
   app:
     build: .
-    command: bash -c 'ls src/*.rs | entr cargo build'
+    command: bash -c 'ls src/main.rb | entr ruby src/main.rb'
     volumes:
       - ./src:/usr/src/app/src

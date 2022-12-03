@@ -1,22 +1,24 @@
-fn multiply_by_two(value: i32) -> i32 {
-  value * 2
-}
-
-#[test]
-fn test_multiply_10() -> Result<(), String> {
-  if multiply_by_two(10) == 20 {
-    Ok(())
-  } else {
-    Err("It's not 20".to_string())
-  }
-}
-
-#[test]
-#[should_panic]
-fn test_panic() {
-  panic!("I'm panicky");
-}
-
 fn main() {
-    println!("{}", multiply_by_two(10));
+  println!("Lesson 3 - Variables and Data Types");
+
+  // i = signed
+  // u = unsigned
+
+  let today = 17u8;
+  let payday = 17u8;
+
+  let condition1: bool = today < payday;
+  let condition2: bool = today == payday;
+
+  let hours_per_month = 160f64;
+  let hour_rate = 200.5f64;
+
+  if condition1 {
+    println!("Payday is coming!");
+  } else if condition2 {
+    println!("Payday!");
+    println!("You should get {} today.", hours_per_month * hour_rate);
+  } else {
+    println!("Long time till payday!");
+  }
 }
