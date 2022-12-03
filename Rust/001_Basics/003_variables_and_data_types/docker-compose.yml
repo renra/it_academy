@@ -1,0 +1,8 @@
+version: "3.7"
+
+services:
+  app:
+    build: .
+    command: bash -c 'ls src/*.rs | entr cargo clippy'
+    volumes:
+      - ./src:/usr/src/app/src
