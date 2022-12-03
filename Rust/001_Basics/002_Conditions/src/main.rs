@@ -3,12 +3,10 @@ fn main() {
 
     let today = 17;
     let payday = 17;
-    let condition1 = today < payday;
-    let condition2 = today == payday;
 
-    if condition1 {
+    if today < payday {
       println!("Payday is coming!");
-    } else if condition2 {
+    } else if today == payday {
       println!("Payday!");
     } else {
       println!("Long time till payday!");
