@@ -12,7 +12,7 @@ WORKDIR ${dir}
 RUN rustup component add clippy
 
 COPY Cargo.toml ${dir}
-# COPY Cargo.lock ${dir}
+COPY Cargo.lock ${dir}
 
 COPY src ${dir}/src
 RUN cargo build
